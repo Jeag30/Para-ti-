@@ -3,7 +3,7 @@ body{
     overflow-x: hidden;
     overscroll-behavior: none;
     font-family: 'Courier New', Courier, monospace;
-    color: white;
+    color: black;
     margin: 0 au;
     text-align: center;
 }
@@ -27,10 +27,10 @@ div{
     display: flex; justify-content: center; align-items: center;
     min-height: 100vh;
     flex-direction: column;
-    color: white;
+    color: black;
 }
 
 a{
     text-decoration: none;
-    color: white;
+    color: black;
 }
